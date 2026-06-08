@@ -28,3 +28,14 @@ python -m streamlit run app.py
 - [Scikit-learn](https://scikit-learn.org/) — recommendation logic
 
 ## 📁 Project Structure
+game-recommender/
+├── app.py                  # Main Streamlit app
+├── game_recommender.ipynb  # Data exploration notebook
+├── games.csv               # Steam game dataset
+├── requirements.txt        # Dependencies
+└── test_app.py             # Unit tests
+
+## 📝 Notes
+
+- Make sure `games.csv` is present in the project folder before running.
+- To push to GitHub, you must have Git configured and be authenticated (SSH key or personal access token).
