@@ -27,13 +27,6 @@ python -m streamlit run app.py
 - [Pandas](https://pandas.pydata.org/) — data processing
 - [Scikit-learn](https://scikit-learn.org/) — recommendation logic
 
-## 📁 Project Structure
-game-recommender/
-├── app.py                  # Main Streamlit app
-├── game_recommender.ipynb  # Data exploration notebook
-├── games.csv               # Steam game dataset
-├── requirements.txt        # Dependencies
-└── test_app.py             # Unit tests
 
 ## 📝 Notes
 
