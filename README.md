@@ -32,3 +32,7 @@ python -m streamlit run app.py
 
 - Make sure `games.csv` is present in the project folder before running.
 - To push to GitHub, you must have Git configured and be authenticated (SSH key or personal access token).
+
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d95cc757-f1ba-4803-b7f4-6c17d334a732" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fa571d5d-012a-4570-8bdc-2ad9978042b1" />
